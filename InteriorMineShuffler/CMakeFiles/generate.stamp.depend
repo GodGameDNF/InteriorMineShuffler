@@ -1,0 +1,22 @@
+# CMake generation dependency list for this directory.
+C:/CommonLibF4-BingleCustom/InteriorMineShuffler/CMakeLists.txt
+C:/CommonLibF4-BingleCustom/InteriorMineShuffler/cmake/Version.h.in
+C:/CommonLibF4-BingleCustom/InteriorMineShuffler/cmake/sourcelist.cmake
+C:/CommonLibF4-BingleCustom/InteriorMineShuffler/cmake/version.rc.in
+C:/CommonLibF4-BingleCustom/build/vcpkg_installed/x64-windows-static-md/share/fmt/fmt-config-version.cmake
+C:/CommonLibF4-BingleCustom/build/vcpkg_installed/x64-windows-static-md/share/fmt/fmt-config.cmake
+C:/CommonLibF4-BingleCustom/build/vcpkg_installed/x64-windows-static-md/share/fmt/fmt-targets-debug.cmake
+C:/CommonLibF4-BingleCustom/build/vcpkg_installed/x64-windows-static-md/share/fmt/fmt-targets-release.cmake
+C:/CommonLibF4-BingleCustom/build/vcpkg_installed/x64-windows-static-md/share/fmt/fmt-targets.cmake
+C:/CommonLibF4-BingleCustom/build/vcpkg_installed/x64-windows-static-md/share/spdlog/spdlogConfig.cmake
+C:/CommonLibF4-BingleCustom/build/vcpkg_installed/x64-windows-static-md/share/spdlog/spdlogConfigTargets-debug.cmake
+C:/CommonLibF4-BingleCustom/build/vcpkg_installed/x64-windows-static-md/share/spdlog/spdlogConfigTargets-release.cmake
+C:/CommonLibF4-BingleCustom/build/vcpkg_installed/x64-windows-static-md/share/spdlog/spdlogConfigTargets.cmake
+C:/CommonLibF4-BingleCustom/build/vcpkg_installed/x64-windows-static-md/share/spdlog/spdlogConfigVersion.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindThreads.cmake
